@@ -1,0 +1,30 @@
+html {
+  overflow-x: hidden;
+}
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+span {
+  color: #039d3f;
+}
+.swiper {
+  width: 800px;
+  height: 400px;
+  gap: 4px;
+}
+
+.card {
+  width: 178px;
+  height: 126px;
+  border-radius: 20px;
+  border: 1px solid #e4e3e3;
+  background: #fff;
+}
+.card-title{
+    color: #039d3f;
+}
+.btn{
+    color: #fff;
+    background-color: #039d3f;
+}
