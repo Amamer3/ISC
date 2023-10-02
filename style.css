@@ -4,6 +4,9 @@ html {
 body{
     font-family: "Poppins", sans-serif;
 }
+a{
+  text-decoration: none;
+}
 span {
   color: #039d3f;
 }
