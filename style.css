@@ -4,14 +4,21 @@ html {
 body{
     font-family: "Poppins", sans-serif;
 }
-
 span {
   color: #039d3f;
+}
+.swiper-navBtn{
+  color: black;
+  left: 0;
+}
+.swiper-navBtn1{
+  color: black;
+  right: 0;
 }
 .swiper {
   width: 800px;
   height: 400px;
-  gap: 4px;
+  gap: 10px;
 }
 
 .card {
